@@ -40,4 +40,4 @@ npm start
 
 
 ```
-##screenshort. # Open http://127.0.0.1:3000/<img width="1425" alt="Screenshot 2022-04-30 at 3 15 20 PM" src="https://user-images.githubusercontent.com/99712115/166100575-841e8952-2d8e-4a3a-a17c-e6841a63e18f.png">
+##screenshort. <img width="1425" alt="Screenshot 2022-04-30 at 3 15 20 PM" src="https://user-images.githubusercontent.com/99712115/166100575-841e8952-2d8e-4a3a-a17c-e6841a63e18f.png">
